@@ -1,0 +1,23 @@
+{
+  "name": "231370-banking-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon app.js -e js,html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teerasakkh61/231370-banking-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teerasakkh61/231370-banking-website/issues"
+  },
+  "homepage": "https://github.com/teerasakkh61/231370-banking-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
